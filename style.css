@@ -4,12 +4,11 @@ body {
   margin: 0;
 }
 
-h1 {
+.centered {
   text-align: center;
 }
 
 a {
-  text-align: center;
   padding: auto 10px auto 10px;
   background: #E3E8F1;
 }
