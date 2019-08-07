@@ -7,6 +7,9 @@ body {
 h1 {
   text-align: center;
 }
+.centered {
+  text-align: center;
+}
 
 a {
   padding: auto 10px auto 10px;
