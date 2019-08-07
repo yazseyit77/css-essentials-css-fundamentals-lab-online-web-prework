@@ -4,23 +4,3 @@ body {
   margin: 0;
 }
 
-.centered{
-  text-align: center;
-}
-
-
-figcaption {
-  font-size: 12px;
-  text-align: center;
-}
-
-nav a {
-  padding: auto 10px auto 10px;
-  background: #E3E8F1;
-}
-
-.paragraph {
-  width: 800px;
-  text-align: center;
-  padding: 10px 30%;
-}
