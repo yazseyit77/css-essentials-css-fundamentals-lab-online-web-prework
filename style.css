@@ -10,6 +10,7 @@ body {
 
 img {
   width: 900px;
+  align-items: center;
 }
 
 a {
