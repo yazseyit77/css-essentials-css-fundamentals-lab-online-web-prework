@@ -19,7 +19,7 @@ nav a {
   background: #E3E8F1;
 }
 
-p#featured-property {
+.paragraph {
   width: 800px;
   text-align: center;
 }
