@@ -22,4 +22,5 @@ nav a {
 .paragraph {
   width: 800px;
   text-align: center;
+  padding-left: 10px;
 }
