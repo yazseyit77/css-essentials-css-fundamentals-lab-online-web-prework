@@ -13,8 +13,12 @@ img {
   margin: 0 auto;
 }
 
-nav a {
+nav{
   text-align: center;
+}
+nav a {
+  
   padding: 0 10px;
   background-color: #C4D7E8;
 }
+
